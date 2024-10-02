@@ -1,5 +1,5 @@
 /*
-*Problem: 217 - Contains Duplicate
+*Problem: 49 - Group Anagrams
 *Tags: arrays, medium, javascript
 *LeetCode Link: https://leetcode.com/problems/group-anagrams/
 */
