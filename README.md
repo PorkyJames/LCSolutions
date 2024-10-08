@@ -33,7 +33,7 @@ _(coming soon)_
 ### Difficulty
 
 #### Easy
-- [Merge Strings Alternatively (JavaScript)](LeetCode-Solutions/1768_Merge_Strings_Alternatively/JavaScript/mergeStringsAlternatively.js)
+- [Merge Strings Alternatively (JavaScript)]()
 
 #### Medium
 _(coming soon)_
@@ -49,4 +49,4 @@ _(coming soon)_
 _(coming soon)_
 
 #### JavaScript
-- [Merge Strings Alternatively (JavaScript)](LeetCode-Solutions/1768_Merge_Strings_Alternatively/JavaScript/mergeStringsAlternatively.js)
+- [Merge Strings Alternatively (JavaScript)]()
