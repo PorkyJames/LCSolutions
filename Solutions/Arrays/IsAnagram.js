@@ -27,3 +27,24 @@ var isAnagram = function(s, t) {
     
 
 };
+
+
+// //! Problem
+// // Problem is asking us to return true if s and t are valid anagrams with one another. 
+
+// //? Questions
+// // Will the strings ever contain numbers
+// // Will the strings contain any type of upper case letters
+
+// //* Approach
+// // We'll sort the array first utilizing .sort(). THen we'll check to see if s === t. If not, then false. Return true
+
+// var isAnagram = function(s, t) {
+//     const sSort = s.split("").sort().join()
+//     const tSort = t.split("").sort().join()
+//     if (sSort !== tSort) {
+//         return false
+//     }
+
+//     return true
+// };
